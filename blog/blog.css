@@ -1,0 +1,32 @@
+*{
+	margin:0;
+	padding: 0;
+
+}
+#img img{
+	margin-right: 5px;
+}
+
+.list ul li a {
+	color:#fff;
+	text-decoration: none;
+	
+}
+.list ul li a:hover{
+	background-color: grey;
+	text-decoration: underline;
+	color:#000;
+}
+.footer{
+	background-color: #3A5836;
+	width:150px;
+	height:50px;
+	color:#fff;
+	margin: 0 auto;
+	margin-top: 30px;
+	padding-top: 15px;
+}
+.footer a{
+	
+	margin-left: 25px;
+}
